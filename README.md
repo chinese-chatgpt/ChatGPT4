@@ -1,8 +1,8 @@
 # ChatGPT 中文版：国内免翻墙使用攻略，最新 GPT-4.5
 
-> 更新：2025/06/05
+> 更新：2025/06/15
 
-**全面使用 [ChatGPT 中文版](https://chat.lanjing.pro)，免翻墙，支持 GPT-4、GPT-4o、o1、o3 及中文版功能！**
+**全面使用 [ChatGPT 中文版](https://chat.lanjingai.org)，免翻墙，支持 GPT-4、GPT-4o、o1、o3 及中文版功能！**
 
 本指南为用户提供全面的 **ChatGPT 中文版使用指南**，同时整理了国内好用的 **[ChatGPT 镜像网站](https://xsimplechat.com)**和**官网使用教程**，无论是工作学习还是日常生活中，都能满足你的需要~
 
@@ -22,7 +22,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.lanjing.pro)是 OpenAI 开发的 ChatGPT 模型的中文专业版本，为中文用户提供更流畅、更精准的 AI对话体验。
+[**ChatGPT 中文版**](https://chat.lanjingai.org)是 OpenAI 开发的 ChatGPT 模型的中文专业版本，为中文用户提供更流畅、更精准的 AI对话体验。
 
 相较于官网，**ChatGPT 中文版**在以下方面更适合国内用户：
 
@@ -38,7 +38,7 @@
 
 | 中文站网址                                   | 支持模型                         | 稳定性 | 功能亮点                                                         |
 |----------------------------------------------|----------------------------------|--------|------------------------------------------------------------------|
-| **[chat.yixiaai.com](https://chat.lanjing.pro)** | GPT-4, GPT-4o, o1, o3            | ⭐⭐⭐⭐⭐  | **ChatGPT 中文版**，支持 AI大模型、AI绘画、AI助手、AI插件等，适合学生党和打工人 |
+| **[chat.yixiaai.com](https://chat.lanjingai.org)** | GPT-4, GPT-4o, o1, o3            | ⭐⭐⭐⭐⭐  | **ChatGPT 中文版**，支持 AI大模型、AI绘画、AI助手、AI插件等，适合学生党和打工人 |
 | **[chat.lify.vip](https://xsimplechat.com)**     | GPT-4, GPT-4o, o1, o3            | ⭐⭐⭐⭐⭐  | **ChatGPT 镜像网站**，支持 4o、o1、o3 等全模型，支持 AI 写作、AI 编程、AI 办公，满足多种行业需求   |
 | **[chat.lanjingai.org](https://chat.lanjingai.org)** | GPT-4, GPT-4o, o1                | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
 | **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4, GPT-3.5, 4o mini          | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
@@ -71,7 +71,7 @@
 
 ## 如何使用 ChatGPT 中文版？
 
-1. **选择中文站点**：访问推荐的中文站点（如 **[yixiaai.com](https://chat.lanjing.pro)**）。
+1. **选择中文站点**：访问推荐的中文站点（如 **[yixiaai.com](https://chat.lanjingai.org)**）。
 2. **扫码使用**：
    - **扫码登录**：扫码即可登录。
    - **免注册**：直接进入聊天界面，输入问题即可获得回答。
