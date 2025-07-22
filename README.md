@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内免翻墙使用攻略，最新 GPT-4.5
 
-> 更新：2025/07/16
+> 更新：2025/07/24
 
 **全面使用 [ChatGPT 中文版](https://chat.lanjingai.org)，免翻墙，支持 GPT-4、GPT-4o、o1、o3 及中文版功能！**
 
